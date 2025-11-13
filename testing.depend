@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1762831345 source:e:\Новая папка\testing\main.cpp
+	<iostream>
+	<locale.h>
+	<cstdio>
+	<limits>
+	<string>
+	<math.h>
+	<cstdlib>
+	<fstream>
+
